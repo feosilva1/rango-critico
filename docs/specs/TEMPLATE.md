@@ -1,36 +1,52 @@
 # Description & Motivation
 
-Type here a short description of what this feature is about and why do we need it
+Type here a short description of what this feature is about and why do we need it.
 
 # Functional Requirements
 
 ## FR1: [functional requirement]
 
-# Technical Requirements
+## FR2: [functional requirement]
 
-## TR1: [technical requirement]
+# Non-functional Requirements
 
-# Critical User Journeys
+## NFR1: [non-functional requirement]
 
-## CUJ1: [critical user journey]
+## NFR2: [non-functional requirement]
 
-step 1:
-
-step 2:
-
-step 3:
-
-## CUJ2: [critical user journey]
-
-# Spec(optional):
+# Spec (optional)
 
 ```json
 {
-    // some caveat, description or validation regarding this field
-    "name": string // required
-    // some caveat or description or validation regarding this field
-    "password": string // optional
-    // some caveat or description or validation regarding this field
-    "email": string // required
+  // some caveat, description or validation regarding this field
+  "name": "string", // required
+  // some caveat, description or validation regarding this field
+  "username": "string" // optional
 }
 ```
+
+# Critical User Journeys
+
+## CUJ1: [critical user journey title]
+
+- **Step 1:** [action/trigger]
+- **Step 2:** [system behavior]
+- **Step 3:** [outcome/result]
+
+## CUJ2: [critical user journey title]
+
+- **Step 1:** [action/trigger]
+- **Step 2:** [system behavior]
+- **Step 3:** [outcome/result]
+
+# Alternatives Considered
+
+## [Alternative 1]
+
+- **Pros:** [advantages]
+- **Cons:** [disadvantages]
+
+## [Alternative 2 (Selected)]
+
+- **Pros:** [advantages]
+- **Cons:** [disadvantages]
